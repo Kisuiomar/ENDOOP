@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Kisui" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="main" />
+    <module name="ENDOP" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
